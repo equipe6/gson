@@ -22,7 +22,6 @@
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <maven.compiler.release>7</maven.compiler.release>
-     
      <sonar.organization>equipe6</sonar.organization>
      <sonar.host.url>https://sonarcloud.io</sonar.host.url>
   </properties>
