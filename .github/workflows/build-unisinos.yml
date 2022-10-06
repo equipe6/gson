@@ -1,4 +1,4 @@
-name: Build
+name: Build_Unisinos
 on:
   push:
     branches:
